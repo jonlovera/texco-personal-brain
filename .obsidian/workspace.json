@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fb76fdd48844e156",
+        "id": "080fa61f971b91c4",
         "type": "tabs",
         "children": [
           {
-            "id": "6a5d1c66d014588e",
+            "id": "09813cac2f153ca7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Installation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Installation"
-            }
-          },
-          {
-            "id": "70fe87263da664ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "inbox"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,18 +179,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "717264a2be70b9de",
+  "active": "09813cac2f153ca7",
   "lastOpenFiles": [
-    "internal/Technology Strategy 2026-2028.md",
-    "Untitled.base",
-    "inbox.md",
-    "Welcome.md",
-    "internal/Naming Conventions.md",
-    "taxisoft/Notes.md",
-    "taxisoft",
-    "internal/Untitled.md",
-    "internal",
-    "tools/Installation.md",
-    "tools"
+    "2-updates/3-quarterly/_template.md",
+    "2-updates/2-monthly/_template.md",
+    "daily/2026-07-22.md",
+    "5-private/team.md",
+    "5-private/scratch.md",
+    "5-private",
+    "4-notes/technology-strategy-2026-2028.md",
+    "4-notes/runbook.md",
+    "4-notes/open-questions.md",
+    "4-notes/naming-conventions.md",
+    "4-notes/people.md",
+    "4-notes/next-actions.md",
+    "4-notes/ideas.md",
+    "4-notes/decisions.md",
+    "4-notes/baseline.md",
+    "4-notes",
+    "3-systems/handover.md",
+    "3-systems/texco-tools.md",
+    "3-systems/taxisoft.md",
+    "3-systems/audit.md",
+    "3-systems/_template.md",
+    "3-systems",
+    "1-daily/_template.md",
+    "1-daily/2026-07-22.md",
+    "1-daily/2026-07-21.md",
+    "1-daily/2026-07-20.md",
+    "1-daily",
+    "2-updates/1-weekly/_template.md",
+    "2-updates/3-quarterly",
+    "2-updates/2-monthly",
+    "2-updates/1-weekly",
+    "2-updates",
+    "notes/baseline.md",
+    "notes/next-actions.md",
+    "weekly",
+    "notes",
+    "Untitled.canvas"
   ]
 }
