@@ -43,10 +43,10 @@ _What the function needs to keep delivering (people, tools, budget)._
 
 ---
 
-## 📧 For the CEO
-_Strategic: progress vs the vision/roadmap, business impact, the resourcing ask (if any)._
+## 📧 For Jack Bull (Director — who I report to)
+_Strategic: progress vs the vision/roadmap, business impact, the resourcing ask (if any). **Name the tools.**_
 
-> Hi [CEO],
+> Hi Jack,
 >
 > [Quarter's story in 4–6 sentences: outcomes, momentum, where we are on the roadmap.]
 >
@@ -54,10 +54,10 @@ _Strategic: progress vs the vision/roadmap, business impact, the resourcing ask 
 >
 > — Jonathan
 
-## 📧 For the CFO
-_Numbers-first: cumulative savings & risk reduction this quarter, spend, ROI narrative._
+## 📧 For Dee (CFO)
+_Numbers-first: cumulative savings & risk reduction this quarter, spend, ROI narrative — **name tools/spend**._
 
-> Hi [CFO],
+> Hi Dee,
 >
 > [Cumulative hours/£ saved and risk reduced this quarter; ROI vs any spend.]
 >

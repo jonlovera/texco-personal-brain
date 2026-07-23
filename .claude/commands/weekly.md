@@ -26,15 +26,22 @@ with **no technical jargon**. Copy `2-updates/1-weekly/_template.md` for the str
 8. **Baseline:** `4-notes/baseline.md` — use to ground the Time & money numbers (before → after).
 
 ## Draft the update
-- Fill the template in **plain business language** (e.g. "rolled out in-app feedback so staff can
-  report issues" — never "integrated Marker.io").
+- Fill the template in **plain business language, but name the actual tools/products** — e.g.
+  "rolled out **Marker.io** for in-app feedback, posting to **Trello**". Name Marker.io, Trello,
+  JobPac, ChatGPT/Claude, etc.; gloss each in a few plain words the first time. Don't be vague ("a tool").
 - **Auto-fill only metrics you can derive** from the notes (systems documented, # shipped, # issues,
   feedback count). For anything you cannot compute (hours saved, £ saved/avoided), **leave the
   `[bracket]` placeholder** — never invent a number.
-- Write both messages in their distinct voices:
-  - **CEO** — strategic, warm, jargon-free: the headline outcome + why it matters + momentum, one
-    risk being managed (reassuring), and any ask (or none).
-  - **CFO** — numbers-first: efficiency/cost/continuity, any spend or savings, any ask (or none).
+- Write both messages in their distinct voices, addressed by name:
+  - **Jack Bull** (Director — the exec Jonathan reports to) — strategic, warm: headline outcome +
+    why it matters + momentum, one risk being managed (reassuring), any ask (or none).
+  - **Dee** (CFO) — numbers-first: efficiency/cost/continuity, any spend or savings, any ask (or none).
+- **Discovery-phase framing (both messages):** while the audit is still early and metrics are mostly
+  placeholders, be honest that we're mapping the systems — lead with leading indicators (systems
+  mapped, momentum, risk reduced), and do NOT imply hard $ savings that don't exist yet.
+- **CFO attention flag:** begin the CFO message with a one-line status. Plain language, ⚠️ **only**
+  when an action/decision is genuinely needed (`> ⚠️ **This week: need a decision on [X].**`);
+  otherwise `> **This week: no action needed.**` with no icon. No traffic light.
 
 ## Rules
 - Never invent facts or numbers — unknowns stay bracketed placeholders.

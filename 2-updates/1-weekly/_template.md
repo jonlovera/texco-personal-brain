@@ -8,36 +8,21 @@
 _The week in one sentence._
 
 ## What shipped / changed
-_Plain-English outcomes — what's different for the business, not how it was built._
+_Plain-English outcomes — what's different for the business. **Name the actual tools** (e.g. Marker.io, Trello)._
 -
 
 ## Metrics
-
-**Discovery progress** — "know everything we have"
-| | This week | To date |
+| Area | Metric | This week |
 |---|---|---|
-| Systems documented | | [x] of ~[N] |
-| Audit completion | | [%] |
-
-**Delivery** — momentum
-| | This week |
-|---|---|
-| Shipped (fixes / features / deploys) | |
-| Issues resolved / still open | [ ] / [ ] |
-| Feedback received (Marker.io) | [ ] |
-
-**Risk reduction** — continuity
-| | Status |
-|---|---|
-| Key-person knowledge captured (Ryan/Brok) | |
-| Backups verified | [ ] |
-| Access de-risked | |
-
-**Time & money** — leading now, dollars later
-| | This week |
-|---|---|
-| Hours saved / manual steps removed | [ ] |
-| Cost saved or avoided | [ ] |
+| Discovery | Systems mapped | [x] of ~[N] |
+| Discovery | Audit completion | [%] |
+| Delivery | Shipped (fixes / features / deploys) | [ ] |
+| Delivery | Issues resolved / open | [ ] / [ ] |
+| Delivery | Feedback via Marker.io | [ ] |
+| Risk reduction | Key-person knowledge captured | [ ] |
+| Risk reduction | Backups verified | [ ] |
+| Time & money | Hours saved / manual steps removed | [ ] |
+| Time & money | Cost saved / avoided | [ ] |
 
 ## Wins
 _Concrete improvements — before/after where you can._
@@ -49,7 +34,7 @@ _Plain terms. Name the risk, then the action._
 
 ## Decisions
 - **Made this week:**
-- **Need from you (CEO/CFO):**
+- **Need from you:**
 
 ## Next week
 _Top 3 priorities._
@@ -57,12 +42,14 @@ _Top 3 priorities._
 
 ---
 
-## 📧 For the CEO
-_Strategic & warm, zero jargon: progress toward the vision, momentum, one risk being managed, any ask._
+## 📧 For Jack Bull (Director — who I report to)
+_Strategic & warm, plain language — but **name the actual tools** (Marker.io, Trello, JobPac, etc.),
+never "a tool". Discovery-phase framing: while we're still mapping, lead with what's mapped / momentum /
+risk reduced — don't imply hard $ savings that don't exist yet._
 
-> Hi [CEO],
+> Hi Jack,
 >
-> [2–4 sentences: the headline outcome, why it matters for the business, and where we're heading.]
+> [2–4 sentences: the headline outcome, why it matters, where we're heading — naming the tools involved.]
 >
 > [One risk you're managing, in a sentence — reassure, don't alarm.]
 >
@@ -70,15 +57,19 @@ _Strategic & warm, zero jargon: progress toward the vision, momentum, one risk b
 >
 > — Jonathan
 
-## 📧 For the CFO
-_Numbers-first: efficiency, cost, risk/continuity. Any spend or savings, any ask._
+## 📧 For Dee (CFO)
+_Numbers-first: efficiency, cost, risk/continuity. **Name tools and any spend by name.** Discovery-phase
+honest: few hard $ yet — lead with risk reduced + leading indicators, not savings we can't prove._
+<!-- Attention flag: ALWAYS start the message with a one-line status.
+     Quiet week (no icon):     > **This week: no action needed.**
+     Action needed (with ⚠️):  > ⚠️ **This week: need a decision on [X].** -->
 
-> Hi [CFO],
+> Hi Dee,
 >
-> [Lead with the efficiency/risk numbers: hours saved, cost avoided, continuity risk status.]
+> > **This week: no action needed.**
 >
-> [Any spend or upcoming cost, or "no new spend this week".]
+> [Lead with risk reduced + leading indicators; name the tools; hours/£ only if real, else say we're still mapping.]
 >
-> [Any ask, or "nothing needed from you this week".]
+> [Any spend or upcoming cost by name (e.g. a trial ending), or "no new spend this week".]
 >
 > — Jonathan

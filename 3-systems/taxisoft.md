@@ -8,7 +8,7 @@
 - **Business criticality:** critical / important / minor
 
 ## Discovery checklist
-- [ ] **Repo** — where the code lives (GitHub org, repo name)
+- [x] **Repo** — `AccountsPayable` (GitHub org)
 - [ ] **Tech stack** — language, framework, notable libraries
 - [ ] **Hosting** — where it runs (Coolify? a server?) + every environment URL (local / dev / qa / prod)
 - [ ] **Domain & DNS** — domains it uses, managed where (Cloudflare?)

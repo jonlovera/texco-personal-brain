@@ -40,21 +40,21 @@ _From [[ideas]] — what's worth pursuing._
 
 ---
 
-## 📧 For the CEO
-_Strategic & warm: the month's headline outcomes, momentum toward the vision, one risk handled, any ask._
+## 📧 For Jack Bull (Director — who I report to)
+_Strategic & warm; **name the actual tools** (Marker.io, JobPac, etc.), never "a tool"._
 
-> Hi [CEO],
+> Hi Jack,
 >
-> [3–5 sentences: what moved the business this month and where we're heading.]
+> [3–5 sentences: what moved the business this month and where we're heading — naming the tools.]
 >
 > [One risk being managed.]  [Any ask, or "nothing needed this month".]
 >
 > — Jonathan
 
-## 📧 For the CFO
-_Numbers-first: efficiency, cost, continuity. Savings to date, any spend, any ask._
+## 📧 For Dee (CFO)
+_Numbers-first: efficiency, cost, continuity. Savings to date, any spend, any ask — **name tools/spend by name**._
 
-> Hi [CFO],
+> Hi Dee,
 >
 > [Lead with the numbers: hours/£ saved this month, continuity-risk status.]
 >

@@ -5,6 +5,8 @@
 > however it comes out. Run `/digest` when you're done and Claude files it all into the vault.
 
 ## Log
+<!-- /digest appends ✅ to each line once it's filed. Lines without ✅ are still to be filed.
+     Edited an old, already-filed line and want it re-filed? Just delete its ✅. -->
 - 
 
 ## ⏳ Unfiled — needs a decision

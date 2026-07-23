@@ -60,11 +60,15 @@ Jonathan **captures, Claude curates.** He only ever hand-writes in `1-daily/`; C
 extracting, expanding, and filing. **Never expect him to hand-edit the structured notes.**
 
 1. During the day he brain-dumps into `1-daily/<today>.md` (freeform, under `## Log`).
-2. He runs **`/digest`**.
-3. Claude expands each jotting into a proper entry, distributes it per the filing table, and stamps
-   the note's `## Processed` footer.
-4. Ambiguous items: Claude asks live and files per his answer; anything unresolved stays under
-   `## ⏳ Unfiled — needs a decision` in the day's note and is re-surfaced next `/digest`.
+2. He runs **`/digest`** — by default it **sweeps the last ~7 days** (so edits to recent days are
+   caught automatically); `/digest <YYYY-MM-DD>` targets one specific day, including older ones.
+3. For every line **not** already ending in `✅`, Claude expands it, files it per the filing table,
+   then **appends ` ✅`** to that line. Ticked lines are skipped → re-running is always safe, no
+   double-filing. The `## Processed` footer is just a human summary; the ✅ ticks are the real record.
+4. **Editing past days is fine:** a new line is un-ticked so it gets filed; to re-file a line you
+   changed, delete its `✅`.
+5. Ambiguous items: Claude asks live and files per his answer; anything unresolved stays un-ticked
+   under `## ⏳ Unfiled — needs a decision` and is re-surfaced next `/digest`.
 
 There is no `inbox.md` — the daily note (with its `⏳ Unfiled` section) is the only capture surface.
 

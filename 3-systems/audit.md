@@ -9,11 +9,15 @@
 
 | System | Owner | Criticality | Repo | Hosting | Docs |
 |---|---|---|---|---|---|
-| [[texco-tools]] | ? | important | ? | ? | 🟡 |
-| [[textrack]] | ? | critical | ? | ? | ⬜ |
-| [[taxisoft]] | ? | ? | ? | ? | ⬜ |
+| [[texco-tools]] | Ryan/Brok | important | ? | Coolify? | 🟡 |
+| [[textrack]] | Ryan/Brok | critical | (within Texco Tools) | via Texco Tools | 🟡 |
+| [[taxisoft]] | ? | ? | AccountsPayable | ? | 🟡 |
 | [[transfer]] | ? | ? | ? | ? | ⬜ |
-<!-- Add rows as you discover more: systems, scripts, cron jobs, integrations, one-off tools. -->
+| [[the-close]] | ? | ? | ? | theclose.internal.texco.net.au | ⬜ |
+| jobpac (external) | Finance / vendor | critical | — vendor ERP | vendor | ⬜ |
+| hibob "Bob" (external) | HR / vendor | important | — vendor HR | vendor | ⬜ |
+<!-- Add rows as you discover more: systems, scripts, cron jobs, integrations, one-off tools.
+     JobPac = ERP / financial source of truth; HiBob = HR. Both are external systems our apps read from. -->
 
 ## Cross-cutting infrastructure (spans all systems)
 
@@ -26,6 +30,8 @@ Things that aren't one app but underpin everything — audit these once.
 - [ ] **Secrets — Bitwarden:** vault structure, who's admin
 - [ ] **Email / identity — Office 365:** admin, how apps use it (e.g. quote emails)
 - [ ] **CI/CD:** none on dev today (manual pulls) — a gap to design a fix for
+- [ ] **AI tooling (ChatGPT / Claude):** access policy (who gets which), current spend, and the right
+  budget — only ~5 of ~220 staff have access; Dee (CFO) is cost-conscious ([[open-questions]], [[ideas]])
 
 ## How to use
 1. For each system, copy [[_template]] → `systems/<app>.md` and work the checklist.

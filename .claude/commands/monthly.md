@@ -23,7 +23,8 @@ executives — write like a CTO explaining outcomes, no jargon. Copy `2-updates/
 - Auto-fill only derivable numbers; leave `[brackets]` for what you can't compute (hours/£ saved).
 - Answer the Monthly Review questions from `4-notes/technology-strategy-2026-2028.md` (improved /
   learned / biggest saving / risks / opportunities / next month).
-- Write both messages in their voices (CEO strategic & warm; CFO numbers-first).
+- Write both messages addressed by name: **Jack Bull** (Director — who Jonathan reports to; strategic
+  & warm) and **Dee** (CFO; numbers-first). **Name the actual tools** (Marker.io, JobPac, etc.), never vague.
 
 ## Rules
 - Never invent numbers — unknowns stay bracketed. Never surface anything from `5-private/`.

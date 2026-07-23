@@ -25,7 +25,8 @@ Non-technical, outcome-focused. Copy `2-updates/3-quarterly/_template.md`.
 - Auto-fill derivable numbers; bracket the rest. Answer the Quarterly Review questions from the
   strategy doc (roadmap progress / savings delivered / time saved / new opportunities / team needs /
   exec priorities).
-- Write both exec messages (CEO strategic; CFO cumulative-savings/ROI + any budget ask).
+- Write both exec messages addressed by name: **Jack Bull** (Director — who Jonathan reports to;
+  strategic) and **Dee** (CFO; cumulative-savings/ROI + any budget ask). **Name the actual tools/spend**, never vague.
 
 ## Rules
 - Never invent numbers — unknowns stay bracketed. Never surface anything from `5-private/`.

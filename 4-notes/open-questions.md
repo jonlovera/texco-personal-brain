@@ -19,5 +19,9 @@
 - [ ] Are there any skills we've built for the teams? Any handy ones?
 - [ ] What are the production deployment rules? Deploy any time? If a deploy fails, does anything break? Do we get preview links (like Vercel)? Is it zero-downtime with Coolify?
 - [ ] What happens with all the context Brock and Ryan hold? They can give people Claude access, create/purchase domains, etc. — how do we de-risk that? (see [[people]] · [[handover]])
+- [ ] What's our current spend on Claude + ChatGPT, and what's the right budget? (for Dee, CFO)
+- [ ] How is each team actually using AI tools — and what could we build around that?
+- [ ] What should our AI-access policy be? (~5 of ~220 have access; ChatGPT vs Claude vs both; Design got both, Dee flagged budget)
+- [ ] Do we want a dedicated "projects" note? (Yamba site, Internal CRM idea, etc.)
 
 Related: [[runbook]] · [[people]] · [[decisions]]

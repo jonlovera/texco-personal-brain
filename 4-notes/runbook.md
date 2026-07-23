@@ -24,8 +24,14 @@
 
 - [x] Copy dev DB into local mysql
 - [x] Get a database backup
+- [x] Laptop + the 3 core repos (Texco Tools, TexTrack, TaxiSoft) running locally
 
 See [[texco-tools]] for the full local Docker setup recipe.
+
+## Good-to-know tools (used at Texco)
+- **Bluebeam** — PDF editor (good for architects)
+- **Adobe** — PDF
+- **Granola** — meeting recording / transcription
 
 ## Gotchas / "Ask X for Y"
 <!-- Undocumented tribal knowledge: what wasn't obvious, who unblocked it, how it was resolved. -->

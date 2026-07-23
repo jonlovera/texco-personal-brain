@@ -6,3 +6,4 @@
 
 - **Georgia** — loves pink; recommended The Grounds of Alexandria (Sydney) for its decor — went recently and the whole place was decked out in pink, looked beautiful.
 - **Elisa** — Mexican, speaks Spanish.
+- **Bec** — Tom Bull's wife (involved in the Yamba Get Away site).
