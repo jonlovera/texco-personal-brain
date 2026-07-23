@@ -6,8 +6,9 @@
 
 | Process / task | Who does it | Time each | Frequency | Est. hours/month | Pain / notes |
 |---|---|---|---|---|---|
-| | | | | | |
+| Payroll processing (manual) | Michelle (weekly), under Michel VO | [?] — time during next week's parallel run ([[open-questions]]) | weekly + fortnightly | [?] | Spreadsheet + pre-pro; manual timesheet entry & reconciliation; double-handling when leave isn't in the Bob pay cycle before it closes (manual adjustment). Allowances & deductions stay manual for the interim. The [[payroll]] tool aims to automate this. |
 
-<!-- Fill as you discover manual processes across departments. /digest drops effort/pain observations here. -->
+<!-- Fill as you discover manual processes across departments. /digest drops effort/pain observations here.
+     No number is ever invented here — leave [?] until a real figure is measured. -->
 
-Related: [[technology-strategy-2026-2028]] · [[audit]] · [[ideas]]
+Related: [[audit]] · [[ideas]]

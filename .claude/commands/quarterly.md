@@ -13,18 +13,18 @@ Non-technical, outcome-focused. Copy `2-updates/3-quarterly/_template.md`.
 ## Gather the inputs
 1. **Monthly updates** for the quarter: `2-updates/2-monthly/*.md` (the 3 months). If a month wasn't
    rolled up, fall back to that month's weekly files in `2-updates/1-weekly/`.
-2. **Roadmap:** the 24-month roadmap in `4-notes/technology-strategy-2026-2028.md` — compare what was
-   planned for this quarter vs what was delivered.
-3. **Discovery:** `3-systems/audit.md`. **Risks:** `3-systems/handover.md` + the strategy doc's risk register.
+2. **Roadmap / plan vs delivered:** derive from `4-notes/next-actions.md`, `backlog/backlog.md` and
+   `4-notes/ideas.md` — compare what was planned/committed this quarter vs what shipped.
+3. **Discovery:** `3-systems/audit.md`. **Risks:** `3-systems/handover.md` + `4-notes/open-questions.md`.
 4. **Wins & opportunities:** `4-notes/ideas.md`. **Decisions:** `4-notes/decisions.md`. **ROI:** `4-notes/baseline.md`.
 
 ## Draft
 - Fill the template in plain business language. Metrics show the quarter **and cumulative-to-date**.
 - Lead the doc with **roadmap progress** (planned vs delivered vs slipped).
 - Include **team & resourcing needs** — this is where the case for hiring/budget is made.
-- Auto-fill derivable numbers; bracket the rest. Answer the Quarterly Review questions from the
-  strategy doc (roadmap progress / savings delivered / time saved / new opportunities / team needs /
-  exec priorities).
+- Auto-fill derivable numbers; bracket the rest. Cover the review angles from the shared notes:
+  roadmap progress (next-actions / backlog / ideas), savings & time saved (`4-notes/baseline.md`),
+  new opportunities (`4-notes/ideas.md`), team needs & exec priorities (`4-notes/next-actions.md`).
 - Write both exec messages addressed by name: **Jack Bull** (Director — who Jonathan reports to;
   strategic) and **Dee** (CFO; cumulative-savings/ROI + any budget ask). **Name the actual tools/spend**, never vague.
 

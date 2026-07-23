@@ -1,21 +1,23 @@
 # Systems Audit — what we have
 
 > The master tracker for discovering every internal system. One row per system; drill into each
-> via its own note. This feeds (doesn't replace) the "Current Systems" table and "Risk Register"
-> in [[technology-strategy-2026-2028]]. Start a new system note by copying [[_template]].
+> via its own note. This is the source of truth for what systems exist; risks/unknowns live in
+> [[open-questions]] and [[handover]]. Start a new system note by copying [[_template]].
 > Docs status: ⬜ not started · 🟡 in progress · ✅ documented
 
 ## Inventory tracker
 
 | System | Owner | Criticality | Repo | Hosting | Docs |
 |---|---|---|---|---|---|
-| [[texco-tools]] | Ryan/Brok | important | ? | Coolify? | 🟡 |
-| [[textrack]] | Ryan/Brok | critical | (within Texco Tools) | via Texco Tools | 🟡 |
+| [[texco-tools]] | Ryan/Brock | important | ? | Coolify? | 🟡 |
+| [[textrack]] | Ryan/Brock | critical | (within Texco Tools) | via Texco Tools | 🟡 |
+| [[payroll]] | Ryan/Brock (Michel VO — payroll lead) | critical | ? | separate (pipeline app) | 🟡 |
 | [[taxisoft]] | ? | ? | AccountsPayable | ? | 🟡 |
-| [[transfer]] | ? | ? | ? | ? | ⬜ |
+| [[texco-learn]] | ? | minor | ? | learn.texco.net.au | ⬜ |
 | [[the-close]] | ? | ? | ? | theclose.internal.texco.net.au | ⬜ |
 | jobpac (external) | Finance / vendor | critical | — vendor ERP | vendor | ⬜ |
 | hibob "Bob" (external) | HR / vendor | important | — vendor HR | vendor | ⬜ |
+| texco main website (external) | Marketing / external provider | minor | — external | external provider (being rebuilt) | ⬜ |
 <!-- Add rows as you discover more: systems, scripts, cron jobs, integrations, one-off tools.
      JobPac = ERP / financial source of truth; HiBob = HR. Both are external systems our apps read from. -->
 

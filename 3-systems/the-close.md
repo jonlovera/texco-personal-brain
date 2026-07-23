@@ -5,7 +5,7 @@
 
 ## Snapshot
 - **Purpose / who uses it:** Unknown yet — a Texco internal tool found this week.
-- **Owner / who knows it:** — ask Ryan/Brok
+- **Owner / who knows it:** — ask Ryan/Brock
 - **Business criticality:** ?
 
 ## Discovery checklist

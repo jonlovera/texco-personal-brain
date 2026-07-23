@@ -4,7 +4,7 @@
 
 ## Snapshot
 - **Purpose / who uses it:** Central internal system — "knows everything". Widely used.
-- **Owner / who knows it:** Ryan & Brok
+- **Owner / who knows it:** Ryan & Brock
 - **Business criticality:** important
 - **Known niggle:** some screens are slow (often the live JobPac pulls — see Integrations).
 - **Contains [[textrack]]** — the project resource-planning module, under the sidebar "Projects".
@@ -55,6 +55,17 @@ After step 3 you land on the dashboard as a Super Admin. Frontend assets are pre
   Staff can now report bugs/improvements to **Trello** directly from any page (steering people to the
   tool instead of DMing me). ⚠️ On a **trial — ends after 13 days or 25 reported issues** (decide on a
   paid plan before then → [[next-actions]]). Doesn't work with ad-blockers / the Helium browser's blocker.
+- **2026-07-23** — Deployed to prod: new **"Default" role** — set as the default for existing users
+  who had no role, so everyone has a baseline. Rolled out as part of the **Apparel** feature launch.
+- **2026-07-23** — Updated the **What's New** page to announce **Apparel** has arrived.
+
+## Feature: Apparel
+- Staff can order apparel/boots/clothing through Texco Tools. Added Apparel to the existing roles so
+  they see it in their dash; the **"view apparel" permission was deliberately left empty** so everyone
+  can see Apparel without a specific permission (see [[decisions]] — revisit per-tab permissions later).
+- **Follow-up tickets** ([[backlog]]): [[texco-tools-apparel-landing]] (default to "New order", hide
+  Catalogue tab without permission) · [[texco-tools-apparel-approval]] (order approval routing —
+  boots/clothing → site manager, only reorders need approval; open concern: manager approval capacity).
 
 ## Notes
 - Marker.io feedback flows to Trello; doesn't work behind an ad-blocker.

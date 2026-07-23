@@ -21,8 +21,10 @@ executives — write like a CTO explaining outcomes, no jargon. Copy `2-updates/
 ## Draft
 - Fill the template in plain business language. Show metrics **with the trend vs last month**.
 - Auto-fill only derivable numbers; leave `[brackets]` for what you can't compute (hours/£ saved).
-- Answer the Monthly Review questions from `4-notes/technology-strategy-2026-2028.md` (improved /
-  learned / biggest saving / risks / opportunities / next month).
+- Cover the review angles by deriving from the shared notes: improved/learned (daily notes +
+  `3-systems/<app>.md` deploy logs), biggest saving (`4-notes/baseline.md`), risks
+  (`4-notes/open-questions.md` + `3-systems/handover.md`), opportunities (`4-notes/ideas.md`),
+  next month (`4-notes/next-actions.md`).
 - Write both messages addressed by name: **Jack Bull** (Director — who Jonathan reports to; strategic
   & warm) and **Dee** (CFO; numbers-first). **Name the actual tools** (Marker.io, JobPac, etc.), never vague.
 

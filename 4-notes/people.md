@@ -15,5 +15,12 @@
 - **Steph Atzamoglou** — Talent Acquisition Partner (taking my headshot next week)
 - **Elisa** — ESD Coordinator; ~7 years at Texco. Not very technical — often goes to Ryan for help.
 - **Georgia** — National Facilities Manager; office point of contact ("talk to her for anything in the office").
+- **Michel VO** — **Payroll manager** / payroll lead. Doing my payroll & timesheets induction; directs
+  the requirements for the [[payroll]] tool. Holds most of the payroll rules/nuances (a key-person risk → [[handover]]).
+- **Michelle** — runs the **weekly** payroll processing; puts the flag comments in the salary review
+  spreadsheet. Appears to be distinct from Michel VO (the lead corrects/approves her work), but this
+  isn't confirmed — see [[open-questions]]. Source: [[2026-07-23-payroll]].
+- **Marcus** — to be notified (alongside the employee) when a leave/entry issue is caught in payroll
+  processing. Role/relationship not yet confirmed. Source: [[2026-07-23-payroll]].
 
 Related: [[audit]] · [[runbook]] · [[handover]]

@@ -2,8 +2,7 @@
 
 > Non-technical monthly CTO update — rolls up the month's weekly updates for the executives.
 > The two messages at the bottom are ready to send. Drafted by `/monthly` — **confirm every
-> [bracketed] number before sending.** Answers the Monthly Review questions in
-> [[technology-strategy-2026-2028]].
+> [bracketed] number before sending.**
 
 ## TL;DR
 _The month in 2–3 sentences._

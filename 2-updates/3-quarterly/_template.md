@@ -2,13 +2,13 @@
 
 > Non-technical quarterly CTO review — rolls up the quarter's monthly updates + roadmap progress.
 > Board-level view for the executives. Drafted by `/quarterly` — **confirm every [bracketed] number
-> before sending.** Answers the Quarterly Review questions in [[technology-strategy-2026-2028]].
+> before sending.**
 
 ## TL;DR
 _The quarter in a few sentences._
 
 ## Roadmap progress
-_Vs the 24-month plan in [[technology-strategy-2026-2028]]._
+_Planned vs delivered this quarter (derive from [[next-actions]], [[backlog]] and [[ideas]])._
 - **Planned this quarter:**
 - **Delivered:**
 - **Slipped / carried over:**

@@ -7,7 +7,7 @@
 - **Purpose / who uses it:** Resource & capacity planning for construction projects — places people
   (project managers + their teams) onto projects, tracks each person's capacity/workload, and
   forecasts hiring needs 6–18 months out. Used by the project-delivery office.
-- **Owner / who knows it:** Ryan & Brok (built in-house; "Johnny"/"Sonny" also referenced).
+- **Owner / who knows it:** Ryan & Brock (built in-house; "Johnny"/"Sonny" also referenced).
 - **Business criticality:** critical
 - **Origin:** replaced a paid product, **Bridgit Bench** (~$50k/yr). Built from ~Sep/Oct 2025 for a
   better fit — it was about functionality, not cost saving.
@@ -28,14 +28,21 @@
   - Role-capacity vs assignee-capacity model is confusing; needs a rethink.
   - "Scenarios" (what-if planning) ~80% built, currently unused.
   - UI rough edges (filters don't collapse; unfriendly project form).
-- [x] **Risks:** bus factor (Ryan/Brok resolve data mismatches from personal knowledge); no CI; vibe-coded.
+- [x] **Risks:** bus factor (Ryan/Brock resolve data mismatches from personal knowledge); no CI; vibe-coded.
 - [ ] **Hosting / Auth / Backups / Recovery / Secrets / Access** — inherit from Texco Tools (confirm).
 - [ ] **Quick wins** — UI tidy-ups; improve the assignment/scoring UX.
 
 ## ⚠️ Looming: project-number convention change
 JobPac project numbers are running out — Vic = 12xx, NSW = 13xx, approaching **1299**. Moving to a
 **5-digit** scheme (drop the leading 1, keep the region digit → e.g. 20100 for Vic) to stay
-alphanumerically sortable. **TexTrack isn't designed for this yet** and it's coming soon → [[next-actions]].
+alphanumerically sortable. **TexTrack isn't designed for this yet** and it's coming soon.
+→ Ticket (with full reasoning): [[textrack-5digit-project-numbers]].
+**In progress (2026-07-23):** built as 4 PRs; **PR-1 merged** ([#468](https://github.com/TexcoAU/tools/pull/468)); tracked in Trello. Decision logged in [[decisions]].
+
+## Open tickets
+Tracked in [[backlog]] (source: [[2026-07-21-textrack]]): [[textrack-capacity-model]] (Med) ·
+[[textrack-scenarios]] (Low) · [[textrack-ui-tidyups]] (Low) · [[textrack-jobpac-unlink]] (Low).
+In progress (in Trello): [[textrack-5digit-project-numbers]]. Done: [[textrack-role-overlap-fix]] (TT-3).
 
 ## Key concepts
 - **Two phases per project:** design (office/pre-site) and construction (site-based); some roles are

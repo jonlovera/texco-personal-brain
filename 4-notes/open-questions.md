@@ -23,5 +23,11 @@
 - [ ] How is each team actually using AI tools — and what could we build around that?
 - [ ] What should our AI-access policy be? (~5 of ~220 have access; ChatGPT vs Claude vs both; Design got both, Dee flagged budget)
 - [ ] Do we want a dedicated "projects" note? (Yamba site, Internal CRM idea, etc.)
+- [ ] How does **JobPac** actually work? I have no access and don't know it yet (see [[next-actions]] — learn it weeks 2–3)
+- [ ] What is **Composio** used for here? It's in use but I don't know what's in it and have no access (see [[runbook]])
+- [ ] Unpack the **CFO activity-review use case** — she needed to see exactly what a specific user did on a specific date (logins etc.); it's tied to KPIs, so worth understanding the details (see [[ideas]] — Texco Activity Monitor)
+- [ ] **Payroll:** what are the folders/spreadsheets on the server — how do they work, what's included? (see [[payroll]])
+- [ ] **Payroll people:** are **Michel VO** and **Michelle** the same person or two people, and who is **Marcus**? (reconcile in [[people]])
+- [ ] **Baseline:** how long does the manual weekly/fortnightly payroll run take end-to-end? Time it during next week's parallel run → fill [[baseline]]
 
 Related: [[runbook]] · [[people]] · [[decisions]]
